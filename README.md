@@ -1,4 +1,4 @@
-![logo](https://github.com/thomasfederico-fullstack-designer/intro/blob/main/thomas-federico-freelance-fullstack-designer-banner.jpg)
+![logo](thomas-federico-freelance-fullstack-designer-banner.jpg)
 <!--
 **thomasfederico-fullstack-designer/thomasfederico-fullstack-designer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
